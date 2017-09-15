@@ -1,0 +1,17 @@
+
+* Cheatsheet
+#+BEGIN_SRC bash
+# create new app:
+$ mix phx.new <name>
+
+# start server:
+$ mix phx.server
+
+# run app inside IEx:
+$ iex -S mix phx.server
+
+# routes
+$ mix phx.routes
+
+
+#+END_SRC
